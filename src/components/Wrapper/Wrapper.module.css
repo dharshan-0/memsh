@@ -1,0 +1,4 @@
+.wrapper {
+    width: clamp(300px, 80%, 500px);
+    margin-inline: auto;
+}

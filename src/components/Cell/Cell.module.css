@@ -1,0 +1,13 @@
+.cell {
+    background-color: #566E37;
+}
+
+.cell-active {
+    display: flex;
+    background-color: #304424;
+    justify-content: center;
+    align-items: center;
+
+    font-size: clamp(2rem, 4vw, 100%);
+    text-align: center;
+}
